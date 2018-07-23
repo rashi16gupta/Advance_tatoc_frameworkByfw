@@ -1,0 +1,14 @@
+Name:								:Type:								:Value
+linkAdvance:					    :linkText:							:Advanced Course
+menuItems:							:xpath:								://div/span[contains(text(),'Menu 2')]
+insidemenu:							:xpath:								://div/span[contains(text(),'Go Next')]
+symbolDisplay:						:xpath:								://form/div[@name='symboldisplay']
+uname:								:xpath:								://*[@id='name']
+upass:								:id:								:passkey
+uclick:								:id:								:submit
+sessID:								:id:								:session_id
+restClick:							:xpath:								:/html/body/div/div[2]/a
+downLoadClick:						:xpath:								:/html/body/div/div[2]/a
+enterSignature:						:xpath:								://*[@id='signature']
+ProceedEnd:							:xpath:								:/html/body/div/div[2]/form/input[2]
+© 2018 GitHub, Inc.
